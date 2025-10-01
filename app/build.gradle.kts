@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androidstarter"
+    namespace = "com.aleph.testhackaton"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.androidstarter"
+        applicationId = "com.aleph.testhackaton"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

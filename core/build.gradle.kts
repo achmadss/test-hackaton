@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.core"
+    namespace = "com.aleph.core"
     compileSdk = 36
 
     defaultConfig {

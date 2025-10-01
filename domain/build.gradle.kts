@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.domain"
+    namespace = "com.aleph.domain"
     compileSdk = 36
 
     defaultConfig {
